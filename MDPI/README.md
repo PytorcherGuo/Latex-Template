@@ -1,3 +1,3 @@
 # Latex-Template
-Tmeplate for Remote Sensing domain Journals
-MDPI Journals 
+Template for Remote Sensing/MDPI Journals
+
